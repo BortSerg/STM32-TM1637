@@ -157,15 +157,15 @@
 		<project id="TM1637.null.1633086781" name="TM1637"/>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
+	<storageModule moduleId="refreshScope"/>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		<scannerConfigBuildInfo instanceId="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1570344244;com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1570344244.;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.959485382;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.994114191">
+		<scannerConfigBuildInfo instanceId="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.301370946;com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.301370946.;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.40433079;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.2117135797">
 			<autodiscovery enabled="false" problemReportingEnabled="true" selectedProfileId=""/>
 		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1896334839;com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1896334839.;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1745590853;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.914301463">
+		<scannerConfigBuildInfo instanceId="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.418279990;com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.418279990.;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1396533288;com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.1442573257">
 			<autodiscovery enabled="false" problemReportingEnabled="true" selectedProfileId=""/>
 		</scannerConfigBuildInfo>
 	</storageModule>
-	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
-	<storageModule moduleId="refreshScope"/>
 </cproject>
